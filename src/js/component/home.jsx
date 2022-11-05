@@ -16,6 +16,7 @@ const Home = () => {
 		<>
 		<Navbar />
 		<div class ="container">
+
        <Heading/>
 
 	   <Cards/>
